@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hotel</string>
+    <string name="loginbutton">Login</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">enter_your_password</string>
+    <string name="username">enter_your_username</string>
+    <string name="log_in">Login</string>
+    <string name="signup">signup</string>
+    <string name="suwama">SUWAMA HOTEL</string>
+
+</resources>
